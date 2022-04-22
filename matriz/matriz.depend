@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650638299 source:d:\pe2022\matriz\main.c
+	<stdio.h>
+	<locale.h>
+	"funciones.h"
+
+1650638410 d:\pe2022\matriz\funciones.h
+
